@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hannah-w-huang
+- 👋 Hi, I’m Hannah! I'm a sophomore at Columbia University studying CS.
 - 📫 How to reach me ... hh2881@columbia.edu
 
 <!---
