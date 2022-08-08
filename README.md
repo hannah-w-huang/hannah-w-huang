@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hannah! I'm a sophomore at Columbia University studying CS.
+- 👋 Hi, I’m Hannah! I'm a junior at Columbia University studying CS.
 - 📫 How to reach me ... hh2881@columbia.edu
 
 <!---
